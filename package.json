@@ -15,7 +15,7 @@
     "graphql": "14.6.0",
     "graphql-middleware": "4.0.2",
     "graphql-shield": "7.3.0",
-    "graphql-tools": "6.0.1",
+    "graphql-tools": "6.2.6",
     "jsonwebtoken": "8.5.1",
     "lodash.keyby": "4.6.0",
     "mongoose": "5.9.15",
