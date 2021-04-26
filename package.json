@@ -19,7 +19,7 @@
     "jsonwebtoken": "8.5.1",
     "lodash.keyby": "4.6.0",
     "mongoose": "5.9.15",
-    "validator": "13.0.0"
+    "validator": "13.6.0"
   },
   "devDependencies": {
     "nodemon": "2.0.4",
